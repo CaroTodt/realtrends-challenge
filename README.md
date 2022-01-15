@@ -21,7 +21,7 @@ Se debe crear una aplicación de votación realtime.
 * El usuario puede seleccionar los productos desde el cliente viendo un modal con productos de Mercado Libre.
 * [x] La votación se puede pausar, reanudar y reiniciar desde el cliente.
 
-## Result
+## Resultados del desarrollo
 ![screen1](./spec.png)
 ![screen2](https://user-images.githubusercontent.com/29493425/149580779-1f983006-73ea-4260-9fe9-ed265fc4693e.png)
 
